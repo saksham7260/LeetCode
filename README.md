@@ -16,8 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sakshamm720/leetcodee/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/sakshamm720/leetcodee/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sakshamm720/leetcodee/tree/main/0011-container-with-most-water/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/sakshamm720/leetcodee/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
