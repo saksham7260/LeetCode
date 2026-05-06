@@ -6,9 +6,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sakshamm720/leetcodee/tree/main/0011-container-with-most-water/) | Medium |
 | [0056-merge-intervals](https://github.com/sakshamm720/leetcodee/tree/main/0056-merge-intervals/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sakshamm720/leetcodee/tree/main/0056-merge-intervals/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sakshamm720/leetcodee/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sakshamm720/leetcodee/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
