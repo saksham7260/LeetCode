@@ -7,13 +7,17 @@ class MyStack {
     }
     
     public void push(int x) {
-        Q2.add(x);
+       /* Q2.add(x);
         while(!Q1.isEmpty()){
             Q2.add(Q1.remove());
         }
         Queue<Integer> Temp = Q1;
         Q1 = Q2;
-        Q2 = Temp;
+        Q2 = Temp; */
+        Q1.add(x);
+        for(int i = 0;i< Q1.size()-1; ++i){
+            Q1.add(Q1.remove());
+        }
         
     }
     
