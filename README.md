@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshamm720/leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshamm720/leetcodee/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/sakshamm720/leetcodee/tree/main/0162-find-peak-element/) | Medium |
+| [0455-assign-cookies](https://github.com/sakshamm720/leetcodee/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/sakshamm720/leetcodee/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/sakshamm720/leetcodee/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sakshamm720/leetcodee/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sakshamm720/leetcodee/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sakshamm720/leetcodee/tree/main/0088-merge-sorted-array/) | Easy |
+| [0455-assign-cookies](https://github.com/sakshamm720/leetcodee/tree/main/0455-assign-cookies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/sakshamm720/leetcodee/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshamm720/leetcodee/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshamm720/leetcodee/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0455-assign-cookies](https://github.com/sakshamm720/leetcodee/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sakshamm720/leetcodee/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sakshamm720/leetcodee/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Greedy
@@ -38,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sakshamm720/leetcodee/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshamm720/leetcodee/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/sakshamm720/leetcodee/tree/main/0455-assign-cookies/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
