@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshamm720/leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshamm720/leetcodee/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/sakshamm720/leetcodee/tree/main/0162-find-peak-element/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sakshamm720/leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/sakshamm720/leetcodee/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/sakshamm720/leetcodee/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/sakshamm720/leetcodee/tree/main/0735-asteroid-collision/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sakshamm720/leetcodee/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sakshamm720/leetcodee/tree/main/0088-merge-sorted-array/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sakshamm720/leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/sakshamm720/leetcodee/tree/main/0455-assign-cookies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sakshamm720/leetcodee/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sakshamm720/leetcodee/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshamm720/leetcodee/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sakshamm720/leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +98,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshamm720/leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshamm720/leetcodee/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshamm720/leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshamm720/leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshamm720/leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshamm720/leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshamm720/leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
